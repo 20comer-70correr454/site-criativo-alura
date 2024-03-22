@@ -1,6 +1,6 @@
 *{
-    margin: -5;
-    padding: -10;
+    margin: 5;
+    padding: 10;
 }
 
 .cabecalho {
@@ -40,8 +40,10 @@
     }
     
     .coca-cola-titulo-um{
-        margin: -5 150;
-        
+        padding: 20;
+        margin: -10 150;
+        color: #f3eded;
+    
     }
 
     
