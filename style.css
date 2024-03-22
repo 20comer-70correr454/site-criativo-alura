@@ -1,28 +1,47 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: -5;
+    padding: -10;
 }
 
 .cabecalho {
     background-color: #000000;
-    color:  white;
+    color:  rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding:  24 0;
+    padding:  20 0;
 }
 
 .cabecalho-imagen{
-    width: 10%;
+    width: 15%;
+
 }
 
     .cabechalho-lista-item{
         display: inline-block;
-        margin: 0 16;
-        font-size: 24;
+        margin: 5px 16;
+        font-size: 55;
     }
     
     .coca-cola{
-        background-image:linear-gradient( #000000, #3a3a3a)
+        background-image:linear-gradient( #810101, #810101)
         
     }
+    .coca-cola-texto-um{
+        padding: 20;
+        margin: 25 150;
+        color: #f3eded;
+    }
+
+    .coca-cola-texto-dois{
+        padding: 20;
+        margin: 25 150;
+        color: #f3eded;
+    }
+    
+    .coca-cola-titulo-um{
+        margin: -5 150;
+        
+    }
+
+    
